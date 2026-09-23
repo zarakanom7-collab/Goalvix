@@ -1,0 +1,6 @@
+{
+  "name": "GOALVIX",
+  "description": "Daily football predictions and premium tips with dynamic Firebase Storage updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
